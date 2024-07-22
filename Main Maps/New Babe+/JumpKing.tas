@@ -113,7 +113,7 @@
    2,L
   32,L,J
   10
-#Colossal Dungeon(CD) - 33.762 [71.383]
+#Colossal Dungeon(CD) - 33.711 [71.332]
  #CD-1
   32
    1,L,J
@@ -134,9 +134,10 @@
   10
  #CD-2
   20
-  32,R,J
-  41
-   1,R
+   1,J
+   5
+  31,R,J
+  34
    9,R,J
   20
    2,R,J
@@ -231,7 +232,7 @@
   34
   35,R,J
   18
-#False Kings' Castle(FKC) - 17.068 [88.451]
+#False Kings' Castle(FKC) - 17.068 [88.400]
  #FKC-1
   25
   12,L,J
@@ -279,7 +280,7 @@
    5
   30,R,J
   15
-#Underburg(Ub) - 56.797 [145.248]
+#Underburg(Ub) - 56.848 [145.248]
  #Ub-1
   19
    1,R,J
@@ -288,7 +289,7 @@
    7
    2,R,J
    7
-  18
+  21
   34,L,J
   47
    1,R,J
