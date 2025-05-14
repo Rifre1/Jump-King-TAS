@@ -1,4 +1,4 @@
-#Sisters of Space (Items)
+#Sisters of Space
    1,P
    8
    1,D
@@ -427,7 +427,7 @@
    1,S
   34,L,J
   14
-#The Red Ascent(TRA) - 35.700 [146.285]
+#The Red Ascent(TRA) - 35.411 [145.996]
  #TRA-1
   26
    1,R,J
@@ -499,27 +499,27 @@
   24,L,J
   40
    1,S
-  14,R,J
+  16,R,J
    1,R,J,S
-  17,R,J
+  15,R,J
   44
   25,L,J
   28
+   1,R
   33,R,J
   10
  #TRA-7
-  37
-  35,R,J
-  43
-   1,L,J
-   4
+  36
    1,S
-  11,L,J
+  19,R,J
+  21
+   1,S
+  27,L,J
+  37
+   1,S
+   2
+  16,L,J
   28
-   1,L,J
-   5
-  15,L,J
-  26
    1,S
   28,R,J
   34
@@ -590,4 +590,4 @@
   61,P
  119
    1,J
-#2:26.285 IGT
+#2:25.996 IGT
