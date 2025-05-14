@@ -616,50 +616,47 @@
    1,S
    1,R,J
    5
-  27,R,J
+  26,R,J
+   1,R,J,S
   34
-   1,L,J
-   1,L,J,S
-  27,L,J
+  29,L,J
    7
-#Aperture Laboratories(AL) - 56.304 [227.239]
+#Aperture Laboratories(AL) - 56.219 [227.154]
  #AL-1
   33
    1,S
-  29,L,J
-  33
+  12,L,J
+   1,L,J,S
+  16,L,J
+  34
+  27,R,J
+  45
    1,S
-  25,R,J
-  27
-   1,S
+   1
+   1,R,J
+   5
+   1,R,J
+   5
    2,R,J
-  20
-   1,R,J
-   5
-   1,R,J
-   5
-   1,R,J
-   5
-   1,R,J
-   5
+   7
   28,R,J
   33
    1,S
   11,R,J
   15
    1,S
-   2,R,J
+   3,R,J
    1,R,J,S
-  24,R,J
+  23,R,J
   10
  #AL-2
   23
    1,S
    1,L,J
   11
-   3,R,J
+   2,R,J
    1,R,J,S
-  28,R,J
+  29,R,J
   43
    1,S
   19,L,J
@@ -835,20 +832,16 @@
  #AL-7
   19,R,J
   22
-   5,R,J
+   8,R,J
    1,R,J,S
-  25,R,J
-  39
-   1,S
-   3,L,J
-   1,L,J,S
-  29,L,J
+  22,R,J
+  40
+  33,L,J
   16
  #AL-9
   25
   21,R,J
   31
-   1,L
   25,L,J
   38
    1,S
@@ -899,7 +892,7 @@
   42
   28,J
    8
-#The Northern Ridge(TNR) - 36.873 [264.112]
+#The Northern Ridge(TNR) - 36.771 [264.010]
  #TNR-1
   25
    1,S
@@ -1020,18 +1013,21 @@
   40
    1,B
   35,R,J
-  49
-  33,R,J
+  48
+   1,S
+   5,R,J
+   1,R,J,S
+  27,R,J
    6
  #TNR-7
-  38
+  37
   27,L,J
   40
   28,L,J
   38
   35,R,J
   11
-#Leaning Tower of Cryostasis(LToC) - 39.525 [303.637]
+#Leaning Tower of Cryostasis(LToC) - 39.253 [303.263]
  #LToC-1
   35
   24,R,J
@@ -1091,29 +1087,30 @@
   11,R,J
   23
   30,R,J
-  45
+  44
+   1,B
    1,L,J
-   5
-  31,L,J
-  45
-   1,R,J
-   5
+   4
+   1,B
+  32,L,J
+  48
   35,R,J
-  49
-  29,L,J
-  39
-   1,R
+  46
+   1,L
+  28,L,J
+  34
   33,L,J
    9
  #LToC-5
   37
   30,R,J
   53
-  25,R,J
-  39
-   1,L
-  29,L,J
-  41
+   5,L
+  24,R,J
+  37
+   3,L
+  27,L,J
+  34
    1,R,J
    5
   31,R,J
@@ -1170,4 +1167,4 @@
   61,P
  119
    1,J
-#5:03.637 IGT
+#5:03.263 IGT
