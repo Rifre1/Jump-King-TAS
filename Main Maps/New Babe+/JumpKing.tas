@@ -32,7 +32,7 @@
    5
    1,L,J
    5
-#Brightcrown Woods(BW) - 33.048 [37.502]
+#Brightcrown Woods(BW) - 32.997 [37.451]
  #BW-1
    1,L,J
    5
@@ -113,7 +113,7 @@
    5
   34,L,J
   10
-#Colossal Dungeon(CD) - 33.286 [70.788]
+#Colossal Dungeon(CD) - 33.286 [70.737]
  #CD-1
   38
   35,L,J
@@ -227,7 +227,7 @@
   34
   35,R,J
   18
-#False Kings' Castle(FKC) - 16.915 [87.703]
+#False Kings' Castle(FKC) - 16.915 [87.652]
  #FKC-1
   25
   12,L,J
@@ -274,12 +274,13 @@
   29
    1,R,J
    5
-   3
   31,R,J
   14
-#Underburg(Ub) - 57.528 [145.231]
+#Underburg(Ub) - 57.579 [145.231]
  #Ub-1
   26
+   1,R
+   2
   35,J
   38
    1,L,J
