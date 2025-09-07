@@ -1,10 +1,10 @@
-#Ghost of the Babe (No Ring)
+#Ghost of the Babe
    1,J
    1,D
    1
    1,D
    1,J
-  93
+  94
    1,J
  179
 #Redcrown Woods(RW) - 11.509 [11.509]
@@ -52,7 +52,7 @@
   39
    1,R,J
    1
-#Philosopher's Forest(PF) - 18.717 [30.226]
+#Philosopher's Forest(PF) - 18.513 [30.022]
  #PF-1
    4
    1,R,J
@@ -111,13 +111,11 @@
   28
   28,R,J
   34
-  33,L,J
-  16
+  34,L,J
+  15
  #PF-4
-  20
-   1,L
-   2,L,J
-   7
+  27
+   3,L
   33,L,J
   45
   19,L,J
@@ -631,7 +629,7 @@
   27
   32,R,J
    3
-#Halted Ruin(HR) - 40.613 [246.160]
+#Halted Ruin(HR) - 40.545 [246.092]
  #HR-1
   38
    2,R
@@ -683,14 +681,13 @@
   74
   28,L,J
   74
-Hybriiid
-  34,L,J
-  14
+   4,L
+  33,L,J
+  15
  #HR-6
-  50
+  46
   32,R,J
   69
-   4,R
   32,R,J
   47
    2,R
@@ -723,7 +720,7 @@ Hybriiid
   10
   33,R,J
   11
-#The Tower of Antumbra(TToA) - 38.284 [284.444)
+#The Tower of Antumbra(TToA) - 38.284 [284.376)
  #ToA-1
   30
    1,R,J
@@ -841,4 +838,4 @@ Hybriiid
   61,P
  119
    1,J
-#4:44.444 IGT
+#4:44.376 IGT
